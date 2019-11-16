@@ -3,13 +3,19 @@
     <head>
         <title>Andriy Kryvtsun Personal Web Sight</title>
         <style>
-            body {
-                text-align: center;
-                padding: 150px;
+            *, *:before, *:after {
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
             }
 
             h1 {
                 font-size: 50px;
+                margin: 0 0 0.65em;
+            }
+
+            p {
+                margin: 1em 0; 
             }
 
             body {
@@ -17,12 +23,22 @@
                 color: #333;
             }
 
+            html, body, article {
+                height: 100%;   
+            }
+
             article {
-                display: block;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
                 text-align: center;
-                width: 100%;
-                height: 100%;
-                margin: 0 auto;
+            }
+
+            img {
+                display: block;
+                width: 50px;
+                height: 50px;
             }
 
             a {
@@ -34,6 +50,14 @@
                 color: #333;
                 text-decoration: none;
             }
+
+            .list {
+                display: flex;
+            }
+
+            .list a + a {
+                margin-left: 15px;
+            }
         </style>
     </head>
 
@@ -42,29 +66,18 @@
             <h1>Andriy Kryvtsun</h1>
             <div>
                 <p>Personal Web Sight</p>
-                <p>
+                <p class="list">
                     <a href="https://github.com/englishman">
-                        <img src="logos/github.svg"
-                             alt="GitHub profile" title="GitHub profile"
-                             width="50" height="50">
+                        <img src="https://akryvtsun.com/logos/github.svg" alt="GitHub profile" title="GitHub profile">
                     </a>
-                    &nbsp;
                     <a href="https://stackoverflow.com/users/2313177/andriy-kryvtsun">
-                        <img src="logos/stackoverflow.svg"
-                             alt="StackOverflow profile" title="StackOverflow profile"
-                             width="50" height="50">
+                        <img src="https://akryvtsun.com/logos/stackoverflow.svg" alt="StackOverflow profile" title="StackOverflow profile">
                     </a>
-                    &nbsp;
                     <a href="https://www.linkedin.com/in/akryvtsun/">
-                        <img src="logos/linkedin.svg"
-                             alt="LinkedIn profile" title="LinkedIn profile"
-                             width="50" height="50">
+                        <img src="https://akryvtsun.com/logos/linkedin.svg" alt="LinkedIn profile" title="LinkedIn profile">
                     </a>
-                    &nbsp;
                     <a href="https://twitter.com/ankryvtsun">
-                        <img src="logos/twitter.svg"
-                             alt="Twitter profile" title="Twitter profile"
-                             width="50" height="50">
+                        <img src="https://akryvtsun.com/logos/twitter.svg" alt="Twitter profile" title="Twitter profile">
                     </a>
                 </p>
                 <p>&copy; 2019</p>
