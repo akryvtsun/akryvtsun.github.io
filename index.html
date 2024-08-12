@@ -93,8 +93,12 @@
                 </p>
                 <p class="novel">Email me: <a href = "mailto:info@akryvtsun.com">info@akryvtsun.com</a></p>
                 <hr>
-                <p>&copy; 2019&#8211;2023</p>
+                <p>&copy; 2019&#8211;<span id="year"></span></p>
             </div>
         </article>
+
+        <script>
+            document.getElementById('year').textContent = new Date().getFullYear();
+        </script>
     </body>
 </html>
