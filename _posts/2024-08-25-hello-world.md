@@ -11,12 +11,7 @@ That’s why I’ve decided to launch my technical blog. I hope it’ll give me 
 information about computers more deeply and share it with others.
 
 I’m going to write here about computer programming languages, operating systems (I'm mastering macOS now after 
-switching from Windows), IT books I’ve read and, perhaps, about my home [Synology NAS][nas].
+switching from Windows), IT books I’ve read and, perhaps, about my home [Synology NAS](https://www.synology.com/en-global/products/DS423+).
 
-Maybe I’ll even write about my beloved [French bulldog Yosya][yosya] who took part in my Internet meetings during 
-my work from home and more than once interrupted them with his snoring — we’ll see…
-
-
-[yosya]: https://www.instagram.com/josyafrench
-[nas]:   https://www.synology.com/en-global/products/DS423+
-
+Maybe I’ll even write about my beloved [French bulldog Yosya](https://www.instagram.com/josyafrench) who took part in 
+my Internet meetings during my work from home and more than once interrupted them with his snoring — we’ll see…
