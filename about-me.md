@@ -6,7 +6,7 @@ permalink: /about-me/
 
 My name is Andriy Kryvtsun (Ukrainian: *Андрій Кривцун*) but people often call me Andy (sometimes even Andrzej or Andre).
 
-<img style="width: 40%; height: auto; float: right; margin: 5%;" src="/photo.jpg" />
+<img style="width: 40%; height: auto; float: right; margin: 5%;" src="/images/my-photo.jpg" />
 
 I wrote my first program in [BASIC](https://en.wikipedia.org/wiki/BASIC) computer language in my school notebook with a 
 regular pen in the late 80s as I didn't have access to a computer at that time. My first personal computing device was 

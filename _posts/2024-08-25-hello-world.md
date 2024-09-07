@@ -3,6 +3,8 @@ layout: post
 title:  "Hello, World!"
 date:   2024-08-25 19:13:45 +0300
 ---
+![banner](/images/hello-world2.webp)
+
 During my work and personal life I constantly face tricky tasks and interesting facts about computers. Like all of us 
 I don't have enough time to slow down and think it over during workdays. Thus, a few years ago I began taking quick 
 notes so I wouldn't forget anything. Unfortunately, it didn't help and the information in those notes became outdated.
